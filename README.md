@@ -7,9 +7,11 @@ This Python-based application uses Dijkstra's algorithm to find the shortest pat
 The EV Charging Station Route Optimizer is designed to assist EV drivers in finding the most efficient path to the nearest charging station from their current location. It leverages a network graph represented in graph_edges.csv, where nodes correspond to intersections or charging stations, and edges represent the roads connecting them.
 
 **Getting Started**
+
 Follow these instructions to get the project running on your local machine for development and testing purposes.
 
 **Prerequisites****
+
 Ensure you have Python 3.x installed on your system. You can download it from python.org.
 
 **Installation**
