@@ -8,8 +8,8 @@ The EV Charging Station Route Optimizer is designed to assist EV drivers in find
 
 **Getting Started**
 Follow these instructions to get the project running on your local machine for development and testing purposes.
-**
-Prerequisites**
+
+**Prerequisites****
 Ensure you have Python 3.x installed on your system. You can download it from python.org.
 
 **Installation**
