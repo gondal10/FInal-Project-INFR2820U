@@ -16,7 +16,7 @@ with open('graph_edges.csv', mode='r', newline='') as csvfile:
         graph[source][target] = weight
         if target not in graph:
             graph[target] = {}
-        graph[target][source] = weight  # Add the edge in both directions since the graph is undirected
+        graph[target][source] = weight  # Add the edge in both directions 
 
 def dijkstra(graph, start):
     distances = {node: float('infinity') for node in graph}
